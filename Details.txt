@@ -1,0 +1,9 @@
+1 - Collect at least 5,000 Job Ads for Data Scientists from Indeed.com.
+
+2 - Collect at least 5,000 Job Ads for Software Engineers from Indeed.com.
+
+3 - Get the html of the job description (as shown on the right side of the screen after you click on an Ad) for each Ad. 
+
+4 - Extract the text from the html and create a csv with 1 Ad per line and 2 columns: <text>, <job title>
+
+5- Train a classification model that can predict whether a given Ad is for a Data Scientist or Software Engineer.
